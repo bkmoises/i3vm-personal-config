@@ -1,0 +1,12 @@
+xorg
+i3-vm
+i3status
+i3blocks
+i3lock
+i3lock-fancy
+bmenu
+ranger
+nitrogen
+firefox
+pacmanfm
+alsamixer
