@@ -1,0 +1,2 @@
+sudo apt install $(<pacotes.txt) #Instala pacotes a partir de um arquivo de lista.
+sudo apt install --dry-run #Emula a execução do comando
