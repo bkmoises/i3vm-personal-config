@@ -10,3 +10,4 @@ nitrogen
 firefox
 pacmanfm
 alsamixer
+fish
